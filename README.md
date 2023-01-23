@@ -12,5 +12,5 @@ Click the direct links below to download any of the package.
 Direct links:
 [Nova Launcher](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher)
 Test link
-[Test](chrome://settings/)
-[Test2](browser://www.google.nl)
+
+http://192.168.3.201:8888/apps/redirect.html
