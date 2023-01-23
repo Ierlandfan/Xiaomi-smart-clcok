@@ -13,3 +13,4 @@ Direct links:
 [Nova Launcher](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher)
 Test link
 [Test](chrome://settings/)
+[Test2](browser://www.google.nl)
