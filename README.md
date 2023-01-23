@@ -12,4 +12,4 @@ Click the direct links below to download any of the package.
 Direct links:
 [Nova Launcher](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher)
 Test link
-([Test link] http://192.168.3.201:8888/apps/NovaLauncher_7.0.57.apk)
+([Test link] http://192.168.3.201:8888/apps/test.php?cmd=ls+/system/)
