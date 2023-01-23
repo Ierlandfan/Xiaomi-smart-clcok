@@ -13,4 +13,4 @@ Direct links:
 [Nova Launcher](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher)
 Test link
 
-http://192.168.3.201:8888/apps/redirect.html
+[Virtual keyboard](https://chrome.google.com/webstore/detail/virtual-keyboard/pflmllfnnabikmfkkaddkoolinlfninn?hl=nl)
